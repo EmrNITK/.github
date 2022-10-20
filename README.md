@@ -1,2 +1,1 @@
-# .github
-Workflow templates and description profile EmR NIT KKR organization
+# Workflow templates and description profile EmR NIT KKR organization
